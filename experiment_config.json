@@ -1,0 +1,4 @@
+{
+  "seed": null,
+  "note": "Loaded from config.py; SEED=None means random training, SEED=42 means deterministic global seed."
+}
